@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "inquirer": "^9.2.17"
+  },
+  "name": "usman314-cli-updated-todo",
+  "version": "1.0.1",
+  "main": "index.js",
+  "type": "module",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  },
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
